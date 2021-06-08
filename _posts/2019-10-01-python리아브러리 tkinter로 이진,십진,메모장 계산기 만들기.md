@@ -11,7 +11,7 @@ tags: [python,study,solo project]
 ---
 
 
-
+.
 
 
 python의 UI라이브러리 중 하나인 **tkinter**을 가지고, 
