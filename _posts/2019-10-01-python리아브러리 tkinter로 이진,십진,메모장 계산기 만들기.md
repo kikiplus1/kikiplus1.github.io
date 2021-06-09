@@ -1,5 +1,5 @@
 ---
-title: python리아브러리 tkinter로 이진,십진,메모장 계산기 만들기
+title: python라이브러리 tkinter로 이진,십진,메모장 계산기 만들기
 
 date: 2020-06-25 18:34:07 +/-TTTT
 
